@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+}
+
+.nike {
+	text-align: center;
+}
+
+.name {
+	color: red;
+	text-align: center;
+}
+
+.email {
+	color: green;
+}
+
+.password {
+	color: blue;
+}
+
+.age {
+	color: purple;
+}
+
+.button :hover {
+	background-color: red;
+	color: blue;
+}
